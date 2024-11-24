@@ -1,28 +1,25 @@
 <div align="flex">
 <pre>
-<p align="center"><a href="#"><img src="window-icons.png" width=40px align="left"></a><sub>ryanlibs.txt</sub><picture><img src="window-icons-holdplace.png" width=40px align="right"></picture</p>
+<p align="center">
+  <a href="#"><img src="window-icons.png" width="40px" align="left"></a>
+  <sub>ryan㉿kali</sub>
+  <picture><img src="window-icons-holdplace.png" width="40px" align="right"></picture>
+</p>
+    
+┌──(ryan㉿kali)-[~/profile]
+└─$ ls -la
+total 3
+-rw-r--r--  1 ryan  staff   6 Nov 24  ryanlibs
+-rw-r--r--  1 ryan  staff  14 Nov 24  interests_on_cybersec.txt
+-rw-r--r--  1 ryan  staff  25 Nov 24  learning_backend.txt
 
-```js
-#!/usr/bin/env node
+
+┌──(ryan㉿kali)-[~/profile]
+└─$ ./ryanlibs
+<a href="https://github.com/ryanlibs"><img src="https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&center=false&size=14&vCenter=true&lines=Hi+my+name+is+Ryan!;Im+currently+learning+backend.;Im+really+interested+in+cybersecurity.;Im+learning+pentesting,+doing+some+CTFs...;Im+always+eager+to+learn+new+things.;&repeat=true" alt="Typing Animation"></a>
 
 
-const me = {
-    name: "Ryan",
-    role: "Full Stack Developer",
-    interests: "Cybersecurity",
-    learning: ["frontend development", "backend development"]
-};
 
-function ryanlibs() {
-    console.log(`Hi, I'm ${me.name} 👋`);
-    console.log(`I'm learning to be a ${me.role} and I love ${me.interests}.`);
-    console.log(`💻 I’m currently learning both ${me.learning.join(" and ")}.`);
-    console.log(`🔒 I'm really interested in ${me.interests}.`);
-    console.log(`🌱 I'm always looking to learn new things.`);
-}
-
-ryanlibs();
-```
 </pre>
 </div>
 
