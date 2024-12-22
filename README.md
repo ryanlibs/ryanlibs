@@ -17,9 +17,6 @@ total 3
 ┌──(ryan㉿kali)-[~/profile]
 └─$ ./ryanlibs
 <a href="https://github.com/ryanlibs"><img src="https://readme-typing-svg.herokuapp.com?color=%F7F7F7FF&center=false&size=14&vCenter=true&lines=Hi+my+name+is+Ryan!;Im+currently+learning+backend.;Im+really+interested+in+cybersecurity.;Im+learning+pentesting,+doing+some+CTFs...;Im+always+eager+to+learn+new+things.;&repeat=true" alt="Typing Animation"></a>
-
-
-
 </pre>
 </div>
 
@@ -78,4 +75,37 @@ total 3
   </details>
 </div>
 
+<div>
+  <details>
+    <summary> 🐱‍💻 CTF Platform </summary>
+    <br>
+    <div align="center">
+      <p align="left">
+        <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4" alt="github" width="40" height="40"/>
+          <a href="https://tryhackme.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/43557241?s=200&v=4" alt="github" width="40" height="40"/>
+      </a>
+      </p>
+    </div>
+    <br>
+  </details>
+</div>
 
+
+<div>
+  <details>
+    <summary> 📜 Certificates </summary>
+    <br>
+    <div align="center">
+      <p align="left">
+        <strong>My Achievements and Certifications:</strong><br><br>
+        You can view my complete list of certifications here:<br>
+        <a href="https://github.com/ryanlibs/certifications">
+          ryanlibs/certifications
+        </a>
+      </p>
+    </div>
+    <br>
+  </details>
+</div>
