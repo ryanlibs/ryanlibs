@@ -9,7 +9,7 @@
 ┌──(ryan㉿kali)-[~/profile]
 └─$ ls -la
 total 3
--rw-r--r--  1 ryan  staff   6 Nov 24  ryanlibs
+-rwxr-xr-x  1 ryan  staff   6 Nov 24  ryanlibs
 -rw-r--r--  1 ryan  staff  14 Nov 24  interests_on_cybersec.txt
 -rw-r--r--  1 ryan  staff  25 Nov 24  learning_backend.txt
 
